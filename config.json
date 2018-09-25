@@ -12,12 +12,14 @@
 	"Sat": {
 		"rate": 45.91,
 		"from": 0,
-		"to": 0
+		"to": 0,
+		"code": 6
 	},
 	"Sun": {
 		"rate": 60.85,
 		"from": 0,
-		"to": 0
+		"to": 0,
+		"code": 0
 	},
 	"minTime": 1,
 	"maxTime": 24,
