@@ -1,0 +1,23 @@
+{
+  "name": "salary-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "tape tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ButenkoT/salary-calc.git"
+  },
+  "author": "Tanya Butenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ButenkoT/salary-calc/issues"
+  },
+  "homepage": "https://github.com/ButenkoT/salary-calc#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}

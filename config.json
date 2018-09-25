@@ -1,0 +1,26 @@
+{
+	"day": {
+		"rate": 38,
+		"from": 6,
+		"to": 20
+	},
+	"night": {
+		"rate": 42.93,
+		"from": 20,
+		"to": 6
+	},
+	"Sat": {
+		"rate": 45.91,
+		"from": 0,
+		"to": 0
+	},
+	"Sun": {
+		"rate": 60.85,
+		"from": 0,
+		"to": 0
+	},
+	"minTime": 1,
+	"maxTime": 24,
+	"bookingIncrement": 0.25,
+	"millisecondsInHour": 3600000
+}
